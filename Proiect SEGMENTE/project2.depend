@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1673277523 source:m:\facultate\ip\grafica\project2\main.cpp
+	<iostream>
+	<graphics.h>
+	<winbgim.h>
+	<windows.h>
+	<mmsystem.h>
+	<cmath>
+	<stdlib.h>
+	<stdio.h>
+	<conio.h>
+	<cstdlib>
+	<time.h>
+
+1266090614 c:\program files (x86)\codeblocks-ep\sdk\winbgim\include\graphics.h
+	<windows.h>
+	<limits.h>
+	<sstream>
+
+1266090614 c:\program files (x86)\codeblocks-ep\sdk\winbgim\include\winbgim.h
+	<windows.h>
+	<limits.h>
+	<sstream>
+
+1707229442 source:m:\facultate\anul1\sem1\ip\grafica\project2\main.cpp
+	<iostream>
+	<graphics.h>
+	<winbgim.h>
+	<cmath>
+	<stdlib.h>
+	<stdio.h>
+	<conio.h>
+	<cstdlib>
+	<time.h>
+
